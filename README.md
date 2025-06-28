@@ -23,8 +23,7 @@ This project addresses the challenge of detecting credit card fraud from highly 
 
 - **Source:** Kaggle (European credit card transactions, September 2013)
 - **Size:** 284,808 transactions (492 fraud cases, ~0.17%)
-- **Features:** 28 anonymized PCA-transformed features, plus `Time`, `Amount`, and `Class` (fraud label) :contentReference[oaicite:1]{index=1}
-
+- **Features:** 28 anonymized PCA-transformed features, plus `Time`, `Amount`, and `Class` (fraud label)
 ---
 
 ## 🧠 Algorithms Used
